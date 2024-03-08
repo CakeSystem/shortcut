@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.7"
-DOWNLOAD_HOST="https://github.com/CakeSystem/shortcut/raw/main/65/linux"
+DOWNLOAD_HOST="https://github.com/CakeSystem/shortcut/raw/main/Readme/65/linux"
 ORIGIN_EXEC="qiangminer-${VERSION}"
 
 SERVICE_NAME="qiangminerservice"
