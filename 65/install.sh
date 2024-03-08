@@ -7,7 +7,7 @@ ORIGIN_EXEC="qiangminer-${VERSION}"
 SERVICE_NAME="qiangminerservice"
 
 PATH_RUST="/root/qiangminer"
-PATH_EXEC="qiangminer"
+PATH_EXEC="qiangminer "
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
