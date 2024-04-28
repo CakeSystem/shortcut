@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.92"
+VERSION="3.9.93"
 DOWNLOAD_HOST="https://github.com/CakeSystem/shortcut/raw/main/Readme/65/linux"
 ORIGIN_EXEC="qiangminer-${VERSION}"
 
@@ -358,6 +358,7 @@ ISSUE() {
     echo "3.9.9"
     echo "3.9.91"
     echo "3.9.92"
+    echo "3.9.93"
 }
 
 filterResult() {

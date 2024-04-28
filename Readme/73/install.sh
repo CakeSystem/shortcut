@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.91"
+VERSION="3.9.93"
 DOWNLOAD_HOST="https://github.com/CakeSystem/shortcut/raw/main/Readme/73/linux"
 ORIGIN_EXEC="goldminer-${VERSION}"
 
@@ -338,6 +338,7 @@ disable_autostart() {
 
 ISSUE() {
     echo "3.9.91"
+    echo "3.9.93"
 }
 
 filterResult() {
