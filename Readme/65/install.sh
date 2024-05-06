@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.93"
+VERSION="3.9.94"
 DOWNLOAD_HOST="https://github.com/CakeSystem/shortcut/raw/main/Readme/65/linux"
 ORIGIN_EXEC="qiangminer-${VERSION}"
 
@@ -337,28 +337,13 @@ disable_autostart() {
 
 
 ISSUE() {
-    echo "0.1.0"
-    echo "0.1.2"
-    echo "0.9.9"
-    echo "0.9.91"
-    echo "0.9.92"
-    echo "0.9.93"
-    echo "0.9.94"
-    echo "0.9.95"
-    echo "0.9.96"
-    echo "0.9.97"
-    echo "0.9.98"
-    echo "0.9.99"
-    echo "0.9.999"
-    echo "1.0.0"
-    echo "1.0.1"
-    echo "1.0.2"
-    echo "1.0.3"
+    echo "3.9.7"
     echo "3.9.8"
     echo "3.9.9"
     echo "3.9.91"
     echo "3.9.92"
     echo "3.9.93"
+    echo "3.9.94"
 }
 
 filterResult() {
