@@ -2,6 +2,9 @@
 
 <div align="center">
 
+# <a href="https://www.p2pool.xyz">代理传统矿池, 或成为真正的矿池节点! 点此查看!</a>
+
+
 # QiangMiner
 
 <h2>一款矿池级别的运维工具👍 </h2>
