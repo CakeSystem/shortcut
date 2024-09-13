@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.94"
+VERSION="4.0.0"
 DOWNLOAD_HOST="https://github.com/CakeSystem/shortcut/raw/main/Readme/73/linux"
 ORIGIN_EXEC="goldminer-${VERSION}"
 
@@ -340,6 +340,7 @@ ISSUE() {
     echo "3.9.91"
     echo "3.9.93"
     echo "3.9.94"
+    echo "4.0.0"
 }
 
 filterResult() {
