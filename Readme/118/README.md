@@ -87,7 +87,7 @@ qiangminer受香港法律监管。请注意，不同国家/地区的法律要求
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/CakeSystem/shortcut/raw/main/Readme/65/install.sh)
+   >  bash <(curl -s -L https://github.com/CakeSystem/shortcut/raw/main/Readme/118/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
@@ -101,7 +101,7 @@ qiangminer受香港法律监管。请注意，不同国家/地区的法律要求
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/CakeSystem/shortcut/tree/main/Readme/65/windows
+   > https://github.com/CakeSystem/shortcut/tree/main/Readme/118/windows
    > ```
    >
 
