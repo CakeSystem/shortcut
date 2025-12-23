@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.5.2"
+VERSION="4.6.0"
 DOWNLOAD_HOST="https://github.com/CakeSystem/shortcut/raw/main/Readme/73/linux"
 ORIGIN_EXEC="goldminer-${VERSION}"
 
