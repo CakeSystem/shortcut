@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.6.7"
+VERSION="5.0.0"
 DOWNLOAD_HOST="https://github.com/CakeSystem/shortcut/raw/main/Readme/128/linux"
 ORIGIN_EXEC="hqminer-${VERSION}"
 
